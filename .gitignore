@@ -1,3 +1,32 @@
+# Arquivos de ambiente
+.env
+**/.env
 *.env
+**/.json
+**/.js
+
+# Docker
+Dockerfile
 **/Dockerfile
+
+# Scripts PowerShell
 *.ps1
+**/*.ps1
+
+# Diretórios específicos
+node_modules/
+**/node_modules/
+
+.bin/
+**/.bin/
+
+app-locadora-v1/
+functions/
+
+# Diretórios e pacotes do Azure
+@azure/
+**/@azure/
+azure-functions-core-tools/
+azure-functions-host/
+azure-functions-host/
+azure-functions-node/

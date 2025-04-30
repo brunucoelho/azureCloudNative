@@ -1,0 +1,1 @@
+## Projeto não conseguir realizar devido ao git apresentar erro para subir, dizenod que é erro de violação, devido a ddos sensivéis.
